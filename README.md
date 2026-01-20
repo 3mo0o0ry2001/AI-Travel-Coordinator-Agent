@@ -29,3 +29,7 @@ The system follows a decoupled architecture to ensure scalability and ease of to
    ```bash
    git clone [https://github.com/3mo0o0ry2001/AI-Travel-Coordinator-Agent.git](https://github.com/3mo0o0ry2001/AI-Travel-Coordinator-Agent.git)
    cd AI-Travel-Coordinator-Agent
+
+1. **Install dependencies**:
+```bash
+pip install -r requirements.txt
