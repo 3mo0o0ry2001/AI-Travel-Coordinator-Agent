@@ -39,7 +39,7 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_key_here
 SERP_API_KEY=your_key_here
 
-Tech Stack
+### Tech Stack
 LLM: OpenAI GPT-4o
 Runtime: Python 3.10+
 Data Sourcing: SerpApi (Google Flights)
