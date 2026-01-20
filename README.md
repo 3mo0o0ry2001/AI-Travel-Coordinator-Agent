@@ -34,7 +34,6 @@ The system follows a decoupled architecture to ensure scalability and ease of to
 ```bash
 pip install -r requirements.txt
 
-3. **Configure environment**:
-'''bash
+3. **Configure environment**:         
 OPENAI_API_KEY=your_key_here
 SERP_API_KEY=your_key_here
