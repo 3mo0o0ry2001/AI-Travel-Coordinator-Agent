@@ -30,6 +30,17 @@ The system follows a decoupled architecture to ensure scalability and ease of to
    git clone [https://github.com/3mo0o0ry2001/AI-Travel-Coordinator-Agent.git](https://github.com/3mo0o0ry2001/AI-Travel-Coordinator-Agent.git)
    cd AI-Travel-Coordinator-Agent
 
-1. **Install dependencies**:
+2. **Install dependencies**:
 ```bash
 pip install -r requirements.txt
+
+3. **Configure environment**:
+'''bash
+OPENAI_API_KEY=your_key_here
+SERP_API_KEY=your_key_here
+
+Tech Stack
+LLM: OpenAI GPT-4o
+Runtime: Python 3.10+
+Data Sourcing: SerpApi (Google Flights)
+Environment Management: python-dotenv
